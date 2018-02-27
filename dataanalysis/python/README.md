@@ -30,7 +30,7 @@ by [@梁斌](http://csusap.csu.edu.au/~bliang03/)<br>
 ### 2.4 常用的数据分析Python库
 
 * [NumPy](http://www.numpy.org/)（Numerical Python），Python科学计算的基础包。
-* [SciPy](https://www.scipy.org/)（Scientific Python），一款方便、易于使用、转为科学和工程设计的Python工具包。
+* [SciPy](https://www.scipy.org/)（Scientific Python），一款方便、易于使用、专为科学和工程设计的Python工具包。
 * [Matplotlib](http://matplotlib.org/)，Python著名的绘图库。
 * [Pandas](http://pandas.pydata.org/)（Python Data Analysis Library），基于Numpy构建的含有更高级数据结构和工具的数据分析包。
 * [Scikit Learn](http://scikit-learn.org/)，基于Python的机器学习模块。
